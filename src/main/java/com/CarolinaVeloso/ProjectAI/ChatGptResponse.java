@@ -1,4 +1,4 @@
-package com.CahERafa.ProjectAI;
+package com.CarolinaVeloso.ProjectAI;
 
 public record ChatGptResponse(
         String id,

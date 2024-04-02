@@ -1,4 +1,4 @@
-package com.CahERafa.ProjectAI;
+package com.CarolinaVeloso.ProjectAI;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.github.cdimascio.dotenv.Dotenv;
